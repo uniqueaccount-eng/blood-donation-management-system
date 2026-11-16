@@ -1,0 +1,30 @@
+[
+  {
+    "request_id": "REQ-8001",
+    "recipient_id": "RCP-2001",
+    "recipient_name": "Sunil Mehta",
+    "blood_group": "O-",
+    "units_requested": 1,
+    "hospital_name": "Apex Trauma Center",
+    "urgency": "Critical (Immediate Life-Saving)",
+    "component_type": "Whole Blood",
+    "request_date": "2026-11-16T19:03:38.504819",
+    "status": "Pending",
+    "allocated_unit_ids": [],
+    "notes": "Emergency trauma surgery scheduled."
+  },
+  {
+    "request_id": "REQ-8002",
+    "recipient_id": "RCP-2002",
+    "recipient_name": "Kavita Rane",
+    "blood_group": "B+",
+    "units_requested": 2,
+    "hospital_name": "City Memorial Hospital",
+    "urgency": "Urgent",
+    "component_type": "Whole Blood",
+    "request_date": "2026-11-16T13:03:38.504846",
+    "status": "Pending",
+    "allocated_unit_ids": [],
+    "notes": "Chemotherapy supportive transfusion."
+  }
+]

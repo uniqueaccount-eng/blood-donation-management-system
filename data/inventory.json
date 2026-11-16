@@ -1,0 +1,68 @@
+[
+  {
+    "unit_id": "UNT-5001",
+    "blood_group": "O-",
+    "donor_id": "DNR-1001",
+    "component_type": "Whole Blood",
+    "volume_ml": 450.0,
+    "collected_date": "2026-11-06",
+    "expiry_date": "2026-12-11",
+    "status": "Available",
+    "storage_location": "Vault Alpha - Shelf 1"
+  },
+  {
+    "unit_id": "UNT-5002",
+    "blood_group": "A+",
+    "donor_id": "DNR-1002",
+    "component_type": "Packed Red Blood Cells (PRBC)",
+    "volume_ml": 300.0,
+    "collected_date": "2026-11-11",
+    "expiry_date": "2026-12-23",
+    "status": "Available",
+    "storage_location": "Vault Alpha - Shelf 2"
+  },
+  {
+    "unit_id": "UNT-5003",
+    "blood_group": "B+",
+    "donor_id": "DNR-1003",
+    "component_type": "Whole Blood",
+    "volume_ml": 450.0,
+    "collected_date": "2026-10-14",
+    "expiry_date": "2026-11-18",
+    "status": "Available",
+    "storage_location": "Vault Alpha - Shelf 3"
+  },
+  {
+    "unit_id": "UNT-5004",
+    "blood_group": "O+",
+    "donor_id": "DNR-1005",
+    "component_type": "Platelets",
+    "volume_ml": 250.0,
+    "collected_date": "2026-11-14",
+    "expiry_date": "2026-11-19",
+    "status": "Available",
+    "storage_location": "Agitator Tray B"
+  },
+  {
+    "unit_id": "UNT-5005",
+    "blood_group": "AB-",
+    "donor_id": "DNR-1006",
+    "component_type": "Fresh Frozen Plasma (FFP)",
+    "volume_ml": 300.0,
+    "collected_date": "2026-10-07",
+    "expiry_date": "2027-10-07",
+    "status": "Available",
+    "storage_location": "Deep Freezer -20C"
+  },
+  {
+    "unit_id": "UNT-5006",
+    "blood_group": "O+",
+    "donor_id": "DNR-1005",
+    "component_type": "Whole Blood",
+    "volume_ml": 450.0,
+    "collected_date": "2026-10-07",
+    "expiry_date": "2026-11-11",
+    "status": "Expired",
+    "storage_location": "Vault Beta (Disposal Bin)"
+  }
+]

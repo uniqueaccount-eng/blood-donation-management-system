@@ -1,0 +1,5 @@
+# Zero external dependencies required!
+# Runs on Python 3.8+ Standard Library (tkinter, json, datetime, abc, unittest)
+# Optional enhancements for production:
+# pytest>=7.0.0
+# flake8>=6.0.0
